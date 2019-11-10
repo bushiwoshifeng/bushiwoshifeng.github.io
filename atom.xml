@@ -5,9 +5,9 @@
   <subtitle>真善美</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://bushiwoshifeng.github.io/"/>
   <updated>2019-11-03T07:13:13.256Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://bushiwoshifeng.github.io/</id>
   
   <author>
     <name>张淑鑫</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/11/03/hello-world/"/>
-    <id>http://yoursite.com/2019/11/03/hello-world/</id>
+    <link href="https://bushiwoshifeng.github.io/2019/11/03/hello-world/"/>
+    <id>https://bushiwoshifeng.github.io/2019/11/03/hello-world/</id>
     <published>2019-11-03T07:13:13.256Z</published>
     <updated>2019-11-03T07:13:13.256Z</updated>
     
@@ -36,7 +36,7 @@
     
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="https://bushiwoshifeng.github.io/tags/test/"/>
     
   </entry>
   
